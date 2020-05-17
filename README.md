@@ -3,4 +3,4 @@
 
 Please create an OpenGL project and put all the files in this repo under the project's "src" folder, and then build and run.
 <br>
-Clicking on the display window can rotate the camera by 90 degrees.
+Clicking on the display window will rotate the camera by 90 degrees.
